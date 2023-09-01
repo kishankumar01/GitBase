@@ -193,6 +193,7 @@ time <command>           # report time consumed by command execution
 ls -l                    # view the permission of all files (r-read, w-write, x-excute)
 dir -l                   # SAME
 ll -l                    # SAME
+locate <fileName>        # locate or path of the give file.
 
 
 ##############################################################################
